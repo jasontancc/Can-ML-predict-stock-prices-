@@ -1,4 +1,4 @@
-Project Name : Can ML predict Stock data movement?
+Project Name : Can ML predict Stock price movement?
 Project Type : Analysis
 
 Problem and Analysis 
